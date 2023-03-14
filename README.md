@@ -47,7 +47,7 @@ Step-7: Fill your choice and proceed with accepting the *terms and conditions* o
 Step-8: Now that you are done with the registration, click on "Join the waitlist" button or RSVP button
 
 ![Step 9](https://user-images.githubusercontent.com/91741931/224739873-c3a3f58d-0bbf-4237-8b66-a8dbd6cfc994.png)
-Step-9: That's it, it shall be done now. Thank you for registering, hope to see you soon at IWD 2023.
+Step-9: That's it, just fill this form https://bit.ly/iwd23-bbsr-register and you are done. Thank you for registering, hope to see you soon at IWD 2023.
 
 
 To get the latest updates about IWD 2023 Bhubaneswar, please follow us on Twitter, LinkedIn, Facebook, and Instagram and join our workspace on Slack. 
