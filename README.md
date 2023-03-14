@@ -8,7 +8,7 @@ This event is an invite-only in-person event.
 
 Registration steps:
 
-Step 1: Join the chapter, if you have not already. Complete your profile. We have created a document to help you complete your profile.    To be eligible for attending this event, everyone is required to update their LinkedIn profile URL on their GDG profile.
+Step 1: Join the chapter, if you have not already. Complete your profile. We have created a document to help you complete your profile(https://docs.google.com/document/d/1_rSK1yBoie6pnQOA36Y5uUwmTv0bOegzXwsMVm3gE7M/edit?usp=sharing).    To be eligible for attending this event, everyone is required to update their LinkedIn profile URL on their GDG profile.
 
 Step 2: Fill in the registration form and join the waitlist.
 
